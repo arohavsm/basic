@@ -2,3 +2,5 @@ Hello World
 
 Git merge
 What the hell?
+
+Now what Happened
